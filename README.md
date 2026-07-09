@@ -1,0 +1,2 @@
+This project demonstrates an end-to-end Data Analytics workflow, starting from raw data exploration to interactive business reporting. The project involves data preprocessing using Python, exploratory data analysis (EDA), SQL-based business analysis in PostgreSQL, and dashboard creation in Power BI.
+The goal is to uncover customer purchasing patterns, identify key business insights, and present the findings through an interactive dashboard that supports data-driven decision-making.
